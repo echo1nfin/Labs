@@ -8,8 +8,10 @@ int main(){
     max = -1;
     index = 1;
     i = 1;
+    cout << "Введите кол-во элементов -> ";
     cin >> n;
     while (n < 0){
+        cout << "Введите кол-во элементов -> ";
         cin >> n;
     }
     while (i <= n){
