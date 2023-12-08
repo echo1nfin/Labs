@@ -10,3 +10,8 @@ ___
 - [X] 2.exe :notebook_with_decorative_cover:
 - [X] Решение задач.docx :page_facing_up:
 ___
+## [_Lab2_](https://github.com/echo1nfin/Labs/tree/main/Lab3) :milky_way:
+- [X] triangle.cpp :pager:
+- [X] triangle.exe :notebook_with_decorative_cover:
+- [X] Равносторонний треугольник.docx :page_facing_up:
+___
