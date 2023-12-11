@@ -5,7 +5,12 @@ using namespace std;
 int main(){
     setlocale(LC_ALL, "ru");
     int n;
+    cout << "¬ведите нечЄтное число n больше 2" << endl;
     cin >> n;
+    while (n % 2 == 0) {
+        cout << "¬ведите нечЄтное число n больше 2" << endl;
+        cin >> n;
+    }
     int stars = 1;
     int space = n/2;
     for (int i = 0; i < n/2 + 1; i++){
