@@ -5,10 +5,10 @@ using namespace std;
 int main(){
     setlocale(LC_ALL, "ru");
     int n;
-    cout << "Ââåäèòå íå÷¸òíîå ÷èñëî n áîëüøå 2" << endl;
+    cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð½ÐµÑ‡Ñ‘Ñ‚Ð½Ð¾Ðµ Ñ‡Ð¸ÑÐ»Ð¾ n Ð±Ð¾Ð»ÑŒÑˆÐµ 2" << endl;
     cin >> n;
     while (n % 2 == 0) {
-        cout << "Ââåäèòå íå÷¸òíîå ÷èñëî n áîëüøå 2" << endl;
+        cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð½ÐµÑ‡Ñ‘Ñ‚Ð½Ð¾Ðµ Ñ‡Ð¸ÑÐ»Ð¾ n Ð±Ð¾Ð»ÑŒÑˆÐµ 2" << endl;
         cin >> n;
     }
     int stars = 1;
