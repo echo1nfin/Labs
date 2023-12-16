@@ -11,7 +11,7 @@ int main() {
 	setlocale(LC_ALL, "ru");
 	const double eps = 1e-6;
 	double a, b, c;
-	cout << "a = "; cin >> a;
+	cout << "a = "; cin >> a;	
 	cout << "b = "; cin >> b;
 	while (abs(b - a) > eps) {
 		c = (a + b) / 2;
@@ -22,5 +22,5 @@ int main() {
 			b = c;
 		}
 	}
-	cout << "Корень уравнения на заданном отрезке: " << c << endl;
+	cout << "РљРѕСЂРµРЅСЊ СѓСЂР°РІРЅРµРЅРёСЏ РЅР° Р·Р°РґР°РЅРЅРѕРј РѕС‚СЂРµР·РєРµ: " << c << endl;
 }
