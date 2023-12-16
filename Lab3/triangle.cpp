@@ -7,7 +7,7 @@ int main(){
     int n;
     cout << "Введите нечётное число n больше 2" << endl;
     cin >> n;
-    while (n % 2 == 0) {
+    while (n % 2 == 0 || n < 3) {
         cout << "Введите нечётное число n больше 2" << endl;
         cin >> n;
     }
