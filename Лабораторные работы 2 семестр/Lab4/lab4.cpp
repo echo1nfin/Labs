@@ -14,7 +14,7 @@ void printArray(int arr[], int size, int k)
 }
 
 // Функция для упорядочивания элементов по убыванию
-void sortDescending(int arr[], int size)
+void bubble_sort(int arr[], int size)
 {
     for (int i = 0; i < size; i++)
     {
@@ -72,7 +72,7 @@ int main()
     printArray(arr, size, k);
 
     // 3) Упорядочивание элементов по убыванию
-    sortDescending(arr, size);
+    bubble_sort(arr, size);
 
     cout << "Отсортированный массив: ";
     for (int i = 0; i < size; ++i)
