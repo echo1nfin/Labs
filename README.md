@@ -47,3 +47,8 @@ ___
 - [X] Lab4.cpp :pager:
 - [X] Lab4.exe :notebook_with_decorative_cover:
 - [X] Решение.docx :page_facing_up:
+___
+### [_LabNN_](https://github.com/echo1nfin/Labs/tree/main/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B5%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B%202%20%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80/LabNN) :cyclone:
+- [X] lec.cpp :pager:
+- [X] lec.exe :notebook_with_decorative_cover:
+- [X] Решение.docx :page_facing_up:
