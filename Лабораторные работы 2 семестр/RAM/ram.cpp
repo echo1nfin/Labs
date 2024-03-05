@@ -5,11 +5,13 @@ using namespace std;
 int main()
 {
     int a = 7;
+    int b = 5;
     int* pa = &a;
     cout << pa << endl;
-    int* pb;
+    int* pb = &b;
     cout << pb << endl;
     pb = pa;
     cout << pb << endl;
     cout << *pb << endl;
+    system("pause");
 }

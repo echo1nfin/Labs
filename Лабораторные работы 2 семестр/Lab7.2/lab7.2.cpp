@@ -60,6 +60,6 @@ int main() {
     Point p6 = {0, 5};
     
     cout << scientific << square1(6, p1, p2, p3, p4, p5, p6) << endl;
-
+    system("pause");
     return 0;
 }

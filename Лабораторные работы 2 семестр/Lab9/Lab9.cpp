@@ -89,6 +89,6 @@ int main() {
     // Закрытие файлов
     input.close();
     output.close();
-
+    system("pause");
     return 0;
 }

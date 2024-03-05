@@ -28,5 +28,6 @@ int main()
     string a = "abc";
     string b = "cba";
     cout << upd_func(a, b) << endl;
+    system("pause");
     return 0;
 }
